@@ -1,0 +1,69 @@
+	
+
+	
+body{
+	background-image: url(UU.JPG);
+	font-family: Helvetica, Arial, sans-serif;
+	
+}
+
+h1, h2, h3 {
+	margin: 0;
+}
+
+container{
+	background-color: white;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+#header {
+
+	background-color: orange;
+	color: brown;
+	text-align: center;
+	padding: 10px;
+}
+#nav-bar
+{ 
+position: sticky;
+top: 0;
+z-index: 10;
+}
+.navbar
+{
+background-image: linear-gradient(to right,blue,white);
+padding: 0 !important;
+}
+.navbar-nav li a
+{
+color: #fff !important;
+font-weight: 600;
+}
+
+#barner
+{
+background-image: linear-gradient(to right,blue,white);
+coor: ffff;
+padding-top: 5%;
+}
+#promo-title{
+
+	background-color: orange;
+	color: brown;
+	text-align: center;
+	padding: 10px;
+}
+.footer{
+ 
+text-align: center;
+background-color: orange;
+	
+}
+
+
+
+
+
